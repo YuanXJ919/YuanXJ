@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1381</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1035</ColumnWidth1>
+        <ColumnWidth2>276</ColumnWidth2>
+        <ColumnWidth3>69</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>238</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows>
+        
+        
+      <ShowCodeCoverage>0</ShowCodeCoverage><ShowInstrProfiling>0</ShowInstrProfiling></Disassembly>
+      <TerminalIO>
+        <PreferedWindows>
+          <Position>2</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+        <InputSource>1</InputSource>
+        <InputMode>10</InputMode>
+        <Filename>$PROJ_DIR$\TermIOInput.txt</Filename>
+        <InputEcho>1</InputEcho>
+        <ShowReset>0</ShowReset>
+      </TerminalIO>
+      <Register><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></Register>
+    <WATCH_1><expressions><item>txBuffer_SI4432</item><item>rxBuffer_SI4432</item><item>CS</item><item>count</item><item>Si4432_tx_count</item><item>Tx_count</item><item>Second_10count</item><item>ItStatus1</item><item>j</item><item>rx_length</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>173</item><item>150</item><item>100</item><item>167</item></col-widths><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows></WATCH_1><QuickWatch><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>100</item><item>150</item><item>100</item><item>100</item></col-widths><QWatchHistory><item>status2</item></QWatchHistory></QuickWatch><Find-in-Files><ColumnWidth0>470</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>806</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-3720-20738</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-3197-20748</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-27292-27960</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-6513-29697</Identity><TabName>Breakpoints</TabName><Factory>Breakpoints</Factory></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-14468-20741</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>yzwxmk</ExpandedNode><ExpandedNode>yzwxmk/MAIN.C</ExpandedNode><ExpandedNode>yzwxmk/MAIN.C/Output</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2><Tabs><Tab><Identity>TabID-12573-20975</Identity><TabName>Watch 1</TabName><Factory>WATCH_1</Factory></Tab><Tab><Identity>TabID-2287-10165</Identity><TabName>Disassembly</TabName><Factory>Disassembly</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\24C02.C</Filename><XPos>0</XPos><YPos>111</YPos><SelStart>166</SelStart><SelEnd>166</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\KEY.C</Filename><XPos>0</XPos><YPos>16</YPos><SelStart>319</SelStart><SelEnd>319</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Deal_CMD.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>71</SelStart><SelEnd>71</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\protocol.C</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1</SelStart><SelEnd>1</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\MCU_DEV.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>344</SelStart><SelEnd>344</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Var.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>433</SelStart><SelEnd>439</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SI4432.C</Filename><XPos>0</XPos><YPos>162</YPos><SelStart>5490</SelStart><SelEnd>5490</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SI4432.H</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>89</SelStart><SelEnd>89</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\PORT2_INT.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>99</SelStart><SelEnd>106</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\TimerA0_INT.c</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>433</SelStart><SelEnd>444</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\MAIN.C</Filename><XPos>0</XPos><YPos>166</YPos><SelStart>5949</SelStart><SelEnd>5949</SelEnd></Tab><ActiveTab>10</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files (x86)\IAR Systems\Embedded Workbench 6.0 Evaluation\430\inc\msp430g2433.h</Filename><XPos>0</XPos><YPos>538</YPos><SelStart>26585</SelStart><SelEnd>26585</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-002de928><key>iaridepm.enu1</key></Toolbar-002de928></Sizes></Row0><Row1><Sizes><Toolbar-0030f810><key>debuggergui.enu1</key></Toolbar-0030f810></Sizes></Row1><Row2><Sizes><Toolbar-0030f108><key>430fet1</key></Toolbar-0030f108></Sizes></Row2></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>561</Bottom><Right>312</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>192</yscreen><sizeHorzCX>138889</sizeHorzCX><sizeHorzCY>234719</sizeHorzCY><sizeVertCX>218056</sizeVertCX><sizeVertCY>688264</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>561</Bottom><Right>306</Right><x>-2</x><y>-2</y><xscreen>211</xscreen><yscreen>227</yscreen><sizeHorzCX>146528</sizeHorzCX><sizeHorzCY>277506</sizeHorzCY><sizeVertCX>213889</sizeVertCX><sizeVertCY>688264</sizeVertCY></Rect></Wnd2></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>164</Bottom><Right>1442</Right><x>-2</x><y>-2</y><xscreen>1444</xscreen><yscreen>166</yscreen><sizeHorzCX>1002778</sizeHorzCX><sizeHorzCY>202934</sizeHorzCY><sizeVertCX>138889</sizeVertCX><sizeVertCY>234719</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
