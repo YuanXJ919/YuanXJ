@@ -181,7 +181,7 @@ void main(void)
       while(1)
       {
 //          WDTCTL = WDTPW + WDTCNTCL;
-          Si4432_rx_data();
+          //Si4432_rx_data();
           Si4432_tx_data();
           //Second_time();
 //          WDTCTL = (WDTCTL & 0xff) | WDTPW | WDTCNTCL;//Î¹¹·
